@@ -76,7 +76,7 @@ git log --oneline
 
 ### Modify README and Push Changes
 ```bash
-git add .
+git add README.md
 git commit -m "Modified the README.md file"
 git push -u origin main
 ```
